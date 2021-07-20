@@ -7,10 +7,10 @@ This project has been developed for extracting images from a PDF file using Open
 * opencv-python-headless==4.2.0.34. 
 * Wand==0.6.6.  
 
-$ ./tree-md .
+
 ## Project tree
 
-.
+
  * [cropped_images](./tree-md)
    * [sample-1-1.jpg](./dir1/file1.ext)
    * [sample-2-1.jpg](./dir1/file2.ext)
