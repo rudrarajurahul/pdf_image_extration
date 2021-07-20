@@ -3,7 +3,6 @@ from wand.image import Image #pip install Wand
 from wand.color import Color
 import re
 import cv2  #pip install "opencv-python-headless<4.3"
-#import matplotlib.pyplot as plt
 
 print("Import Completed")
 
